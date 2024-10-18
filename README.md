@@ -32,7 +32,7 @@ The project is organized into the following files:
 1. Ensure you have [Node.js](https://nodejs.org/) installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-inheritance.git
+   git clone https://github.com/ChickenWithACrown/Employee-Inheritance.git
    ```
 3. Navigate to the project directory:
    ```bash
@@ -93,7 +93,7 @@ This project demonstrates key JavaScript concepts:
    - The `Engineer` class inherits from `Employee`, allowing the `Engineer` to use the `setTitle` and `getTitle` methods from the `Employee` prototype.
 
 2. **Object Creation**:
-   - An `Engineer` object is created with both `title` and `isManager` values.
+   - An `Engineer` object is created with `title` and `isManager` values.
 
 3. **Property Access and Modification**:
    - Methods are used to set and get the `title` and `isManager` properties of the `Engineer` object.
